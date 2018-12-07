@@ -25,6 +25,6 @@ app.listen(port, function(err) {
   if (err) {
     console.log(err);
   } else {
-    open(`http://localhost:${port}`);
+    open(`https://rnyairo-react-practise.herokuapp.com`);
   }
 });
